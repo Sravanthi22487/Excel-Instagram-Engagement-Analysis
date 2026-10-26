@@ -26,4 +26,3 @@ These figures reflect the filter state shown in the screenshot and may change wh
 
 ---
 
-Adapted from [Maanu-Hue’s Excel Instagram Engagement Analysis](https://github.com/Maanu-Hue/Excel-Instagram-Engagement-Analysis). The source project provides the dataset, workbook structure, calculations, and analysis. This version updates the dashboard title and background color.
