@@ -1,58 +1,29 @@
-# 📊 Excel-Based Instagram Engagement & Traffic Analysis
-This project analyzes Instagram performance using *Excel* and *Pivot Tables* to understand engagement, traffic sources, and content effectiveness.
-The dataset was cleaned, transformed, and analyzed to identify meaningful patterns in content reach, likes, engagement rate, and posting trends. Pivot tables and Excel formulas were used to calculate key performance metrics, and the insights were visualized through an interactive dashboard.
+# Instagram Content Performance Dashboard
 
-## 🔍 Project Overview
-The dashboard provides insights into:
-- Engagement rate trends
-- Followers gained by content category
-- High-performing content types
-- Best posting hours
-- Call-to-action impact
-- Media type performance (Reels, Images, Carousels)
+An Excel dashboard for reviewing Instagram post engagement, follower growth, and content trends.
 
-## 🛠 Tools & Technologies
+## Dashboard Preview
+
+![Instagram content performance dashboard](https://github.com/user-attachments/assets/31a185e5-5ca9-42f5-9b1d-58ac44701d08)
+
+## Project Overview
+
+The dashboard compares performance across media types, content categories, traffic sources, and posting times. Slicers allow users to filter by account type, traffic source, media type, and day of the week.
+
+### Current Dashboard Snapshot
+
+- Posts displayed: 9,055
+- Average engagement rate: 4.21%
+- Followers gained: 4,551,335
+
+These figures reflect the filter state shown in the screenshot and may change when slicers are adjusted.
+
+## Tools and Techniques
+
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning & Analysis
+- PivotTables and PivotCharts
+- Slicers and spreadsheet formulas
 
-## 📈 Key Metrics
-- **Total Posts Analyzed:** 29,999  
-- **Average Engagement Rate:** 4.2%  
-- **Total Followers Gained:** 15,064,082
+---
 
-## DataSet used
--<a href ="https://github.com/Maanu-Hue/Excel-Instagram-Engagement-Analysis/blob/main/Instagram_Analytics.xlsx">Dataset</a> 
-
-## 📊 Dashboard Highlights
-- Engagement Rate by Week
-- Engagement Rate by Media Type
-- Followers Gained by Content Category
-- Average Likes by Content Category
-- Performance by Traffic Source
-- Best Posting Hour Analysis
-
-## 🖼 Dashboard Preview
- <img width="1920" height="1020" alt="Screenshot 2026-02-12 214439" src="https://github.com/user-attachments/assets/c83a2e93-cd59-441a-964a-6a5633ef5f0d" />
-
-
-## 🎯 Key Insights
-- Reels show higher engagement compared to images and carousels
-- Lifestyle and Fitness content attract more followers
-- Posts with Call-To-Action perform better
-- Evening hours show higher engagement
-
-## 📌 Learning Outcome
-This project helped me strengthen my skills in:
-- Data analysis using Excel
-- Storytelling through dashboards
-- Business insight generation
-- Visual data presentation
-
-## 👩‍💻 Author
-**Manasa**  
-BSc Data Analytics (2nd Year)
-
-
+Adapted from [Maanu-Hue’s Excel Instagram Engagement Analysis](https://github.com/Maanu-Hue/Excel-Instagram-Engagement-Analysis). The source project provides the dataset, workbook structure, calculations, and analysis. This version updates the dashboard title and background color.
